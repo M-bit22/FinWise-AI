@@ -1,5 +1,5 @@
 
-from langchain.globals import set_llm_cache
+from langchain_core.globals import set_llm_cache
 from langchain_community.cache import InMemoryCache, SQLiteCache
 
 
